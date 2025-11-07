@@ -77,3 +77,10 @@ Email: [s.amitnag1410@gmail.com]
 
 ## **📄License**
 This project is for academic and personal use. Please do not plagiarize.
+
+## 👨‍💻 Author
+**Amit Nag**  
+📍 Bangladesh  
+💼 *Software QA & Test Enthusiast*  
+🔗 [GitHub Profile](https://github.com/amit96nag)
+
