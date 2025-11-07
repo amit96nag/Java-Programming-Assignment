@@ -1,12 +1,13 @@
-**#Java Problem Solving Assignment**
+# **Java Problem Solving Assignment**
 
 This Java project contains solutions to 15 programming problems based on basic to intermediate Java concepts, including arrays, string manipulation, search and sorting algorithms, pattern generation, and more.
 
-**#🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 Language: Java 17
 IDE: IntelliJ IDEA
 Build Tool: Not required (Simple Java project)
-**📂 Project Structure**
+
+## **📂 Project Structure**
 Each problem is implemented in a separate class or method for clarity and modularity. Example:
 
 src/ ├── Problem01_SecondHighestCGPA.java
@@ -39,13 +40,14 @@ src/ ├── Problem01_SecondHighestCGPA.java
 
 └── Problem15_QuestionDistribution.java
 
-**#🚀 How to Run**
+## **🚀 How to Run**
 🔹 Using IntelliJ IDEA:
 Open IntelliJ IDEA.
 Select Open and choose the root folder of this project.
 Right-click on any problem class (e.g., Problem01_SecondHighestCGPA) and select Run.
 You may also create a Main.java class to test all problems together.
-**📋 Problem Overview**
+
+## **📋 Problem Overview**
 No	Problem Description
 1	Find 2nd highest CGPA without sorting (linear search)
 2	Sort CGPAs in descending order (without Arrays.sort)
@@ -63,15 +65,15 @@ No	Problem Description
 14	Validate IP address format with conditions
 15	Find how many 5/10 mark questions total to 100
 
-**#📦 Dependencies**
+## **📦 Dependencies**
 No external libraries used. Standard Java SDK (v17) is sufficient.
 
 Docx File :
 https://docs.google.com/document/d/1dEiKAaxuU8fXKlb7J8nJr6xAxH2g7dOd/edit?usp=drive_link&ouid=113180828003064515171&rtpof=true&sd=true
 
-**👨‍💻 Developer**
+## **👨‍💻 Developer**
 Name: [Amit Nag]
 Email: [s.amitnag1410@gmail.com]
 
-**📄# License**
+## **📄License**
 This project is for academic and personal use. Please do not plagiarize.
