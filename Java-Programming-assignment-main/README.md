@@ -96,12 +96,10 @@ https://docs.google.com/document/d/1dEiKAaxuU8fXKlb7J8nJr6xAxH2g7dOd/edit?usp=dr
 
 ## 👨‍💻 Developer
 
-- **Name:** [Tashrif Rahman]
-- **Email:** [rahmantashrif123@gmail.com]
-- **GitHub:** [(https://github.com/TashrifRahman15)]
+- **Name:** [Amit Nag]
+- **Email:** [s.amitnag1410@gmail.com]
 
----
-
+-
 ## 📄 License
 
 This project is for academic and personal use. Please do not plagiarize.
